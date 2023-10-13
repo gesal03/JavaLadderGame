@@ -1,4 +1,4 @@
-<img width="1000" alt="image" src="https://github.com/gesal03/JavaLadderGame/assets/77336664/38d2aed4-0d16-4880-8562-4dcd733952c5"># JavaLadderGame
+# JavaLadderGame
 ⛺️ 2022 HSU Coding Camp - JavaLadderGame
 
 ## 설명
