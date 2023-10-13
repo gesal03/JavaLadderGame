@@ -1,2 +1,2 @@
-# JavaLetterGame
-⛺️ 2022 HSU Coding Camp - JavaLetterGame
+# JavaLadderGame
+⛺️ 2022 HSU Coding Camp - JavaLadderGame
